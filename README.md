@@ -23,7 +23,7 @@
   <div align="center">
   <br>
 
-<p align="centre"><b>STUDYING AT THIS MOMENT:</b></p>  
+<p align="center"><b>STUDYING AT THIS MOMENT:</b></p>  
   <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
